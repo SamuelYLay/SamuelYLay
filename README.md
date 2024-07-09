@@ -1,5 +1,5 @@
 ```java
-    public Samuel() {
-        school = List.of("University of Sydney");
+public Samuel() {
+    school = List.of("University of Sydney");
 ```
 
